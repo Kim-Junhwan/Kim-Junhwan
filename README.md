@@ -18,6 +18,8 @@
 <h3 >🛠Tech Status🛠</h3>
 <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white">
 <img src="https://img.shields.io/badge/UIkit-2396F3?style=for-the-badge&logo=UIkit&logoColor=white">
+<img src="https://img.shields.io/badge/Swift UI-F05138?style=for-the-badge&logo=Swift&logoColor=white">
+<img src="https://img.shields.io/badge/RXSwift-F05138?style=for-the-badge&logo=Swift&logoColor=white">
 <img src="https://img.shields.io/badge/IOS-000000?style=for-the-badge&logo=Apple&logoColor=white">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
   
