@@ -7,7 +7,7 @@
 
 <div>
 <img src="https://img.shields.io/badge/junenaa50@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
-<a href="https://sandclock-itblog.tistory.com/"><img src="https://img.shields.io/badge/Blog-2ecc71?style=for-the-badge&logo=Gmail&logoColor=white"></a>
+<img src="https://img.shields.io/badge/Blog-2ecc71?style=for-the-badge&logo=Gmail&logoColor=white">
 <div>
 
   
