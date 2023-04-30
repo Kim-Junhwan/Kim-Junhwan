@@ -1,10 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello,%20world!&desc=Junhwan's%20Github&fontAlign=75&fontAlignY=40&descAlign=20&color=gradient)
-
-+ 몬스터에너지 한캔과 노트북 하나로 공부하는중
-+ IOS 공부중
-
-
-
 <div>
 <img src="https://img.shields.io/badge/junenaa50@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
 <a href="https://sandclock-itblog.tistory.com/"><img src="https://img.shields.io/badge/Blog-2ecc71?style=for-the-badge&logo=Gmail&logoColor=white"></a>
