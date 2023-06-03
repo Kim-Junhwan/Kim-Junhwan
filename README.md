@@ -12,10 +12,13 @@
   
 </div>
 
+# Contributed 
+[kudoleh/iOS-Clean-Architecture-MVVM](https://github.com/kudoleh/iOS-Clean-Architecture-MVVM/pull/28)
 
 
 <div>
-<h3 >주로 사용중인 기술 스택</h3>
+  
+# 주로 사용하는 기술 스택
 <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white">
 <img src="https://img.shields.io/badge/UIkit-2396F3?style=for-the-badge&logo=UIkit&logoColor=white">
 <img src="https://img.shields.io/badge/IOS-000000?style=for-the-badge&logo=Apple&logoColor=white">
