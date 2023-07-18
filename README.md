@@ -30,3 +30,8 @@
 </div>
 
 <div>
+
+# 활동
+
+![image](https://github.com/Kim-Junhwan/Kim-Junhwan/assets/58679737/6bd4f33f-cf65-4090-9c54-6ffccd6827c0)<br>
+SESAC (청년취업사관학교) iOS 앱 개발자 데뷔 과정 PLUS / 2023.07.17 ~ 2024.01.17
