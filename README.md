@@ -23,13 +23,6 @@
 <img src="https://img.shields.io/badge/UIkit-2396F3?style=for-the-badge&logo=UIkit&logoColor=white">
 <img src="https://img.shields.io/badge/IOS-000000?style=for-the-badge&logo=Apple&logoColor=white">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
-  
-<h3>알고리즘<h3>
-  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=junenaa)](https://solved.ac/junenaa)
-</div>
-
-<div>
 
 # 활동
 
